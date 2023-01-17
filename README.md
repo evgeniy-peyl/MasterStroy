@@ -11,3 +11,4 @@
 - Adaptive for mobile devices for my taste.
 - Implemented video loading on click to speed up page loading.
 - Styles are written in the SCSS preprocessor.
+- Test commit
